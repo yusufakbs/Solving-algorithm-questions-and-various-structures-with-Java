@@ -9,7 +9,7 @@ public class HesapMakinesi {
             uygulama.Menu();
             int secim = sc.nextInt();
             uygulama.IslemSec(secim);
-            
+
         }
     }
 }
